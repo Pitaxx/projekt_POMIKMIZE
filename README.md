@@ -15,4 +15,6 @@ Pomik MIZE: Krmilje naj krmili pomik mize, to je v smeri gor - dol (gor - sveti 
 # SLIKA VEZJA
 ![slika vezja](https://raw.githubusercontent.com/Pitaxx/projekt_POMIKMIZE/main/SLIKA%20VEZJA.png)
 # KODA PROGRAMA
+![koda programa](![https://raw.githubusercontent.com/Pitaxx/projekt_POMIKMIZE/main/c%2B%2B%20koda%20programa.txt)
+
 
