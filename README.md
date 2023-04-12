@@ -10,5 +10,5 @@ Pomik MIZE: Krmilje naj krmili pomik mize, to je v smeri gor - dol (gor - sveti 
 | ŽICE | 16 |
 # PRIREDBENI SEZNAM
 ![priredbeni seznam](https://raw.githubusercontent.com/Pitaxx/projekt_POMIKMIZE/main/Posnetek%20zaslona%202023-04-11%20114925.png)
-#SLIKA VEZALNE SHEME
+# SLIKA VEZALNE SHEME
 ![slika vezalne sheme](https://raw.githubusercontent.com/Pitaxx/projekt_POMIKMIZE/main/pomik%20mize%20schematic.png)
