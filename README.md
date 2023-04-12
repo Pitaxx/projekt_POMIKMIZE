@@ -15,7 +15,6 @@ Pomik MIZE: Krmilje naj krmili pomik mize, to je v smeri gor - dol (gor - sveti 
 # SLIKA VEZJA
 ![slika vezja](https://raw.githubusercontent.com/Pitaxx/projekt_POMIKMIZE/main/SLIKA%20VEZJA.png)
 # KODA PROGRAMA
-![koda programa]
 const int LED1 = 13;  
 const int LED2 = 12;  
 const int GUMB1 = 10;
