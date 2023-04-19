@@ -17,4 +17,4 @@ Pomik MIZE: Krmilje naj krmili pomik mize, to je v smeri gor - dol (gor - sveti 
 # SLIKA VEZALNE SHEME (Alpha)
 ![slika vezalne sheme(Alpha)](https://github.com/Pitaxx/projekt_POMIKMIZE/blob/main/EasyEDA%20premik%20mize.png)
 # SLIKA VEZAVE (Alpha)
-![slika vezja](https://github.com/Pitaxx/projekt_POMIKMIZE/blob/main/EasyEDA%20premik%20mize.png)
+![slika vezja](https://github.com/Pitaxx/projekt_POMIKMIZE/blob/main/Slika%20vezja.jpg)
