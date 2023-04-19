@@ -20,3 +20,6 @@ Vezje deluje po navodilih.
 ![slika vezalne sheme(Alpha)](https://github.com/Pitaxx/projekt_POMIKMIZE/blob/main/EasyEDA%20premik%20mize.png)
 # SLIKA VEZAVE (Alpha)
 ![slika vezja](https://github.com/Pitaxx/projekt_POMIKMIZE/blob/main/Slika%20vezja.jpg)
+# PROGRAM ALPHE
+![Program alphe](https://github.com/Pitaxx/projekt_POMIKMIZE/blob/main/Alpha%20programing%20premik%20mize.png)
+
