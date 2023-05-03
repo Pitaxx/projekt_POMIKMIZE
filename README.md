@@ -17,7 +17,7 @@ Pomik MIZE: Krmilje naj krmili pomik mize, to je v smeri gor - dol (gor - sveti 
 # SLIKA VEZJA
 ![slika vezja](https://raw.githubusercontent.com/Pitaxx/projekt_POMIKMIZE/main/SLIKA%20VEZJA.png)
 # KOMENTAR 
-Vezje deluje po navodilih.
+Vezje deluje po navodilih.Lahko bi spremenil namesto tipke za ugasnitev mize, bi lahko samo pritisnil obe tipki.
 # SLIKA VEZALNE SHEME (Alpha)
 ![slika vezalne sheme(Alpha)](https://github.com/Pitaxx/projekt_POMIKMIZE/blob/main/EasyEDA%20premik%20mize.png)
 # SLIKA VEZAVE (Alpha)
